@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Twitter](https://media.giphy.com/media/atpUEcVkoIo4zmP17c/giphy.gif)
+![Twitter](https://media.giphy.com/media/brLlTVkSKsjyGjWpey/giphy.gif)
