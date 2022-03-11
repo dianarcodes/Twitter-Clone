@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Twitter](https://media.giphy.com/media/sQmmMg3s17qKbjSE2R/giphy.gif)
+![Twitter](https://media.giphy.com/media/9Yulv8WDLyZaxGJasY/giphy.gif)
 
 
 
