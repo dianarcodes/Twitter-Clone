@@ -53,11 +53,11 @@ class TweetCellTableViewCell: UITableViewCell {
     {
         if (isRetweeted)
         {
-            retweetButton.setImage(UIImage(named: "reweet-icon-green"), for: UIControl.State.normal)
+            retweetButton.setImage(UIImage(named: "retweet-icon-green"), for: UIControl.State.normal)
             retweetButton.isEnabled = false
         }
         else{
-            retweetButton.setImage(UIImage(named: "reweet-icon"), for: UIControl.State.normal)
+            retweetButton.setImage(UIImage(named: "retweet-icon"), for: UIControl.State.normal)
             retweetButton.isEnabled = true
         }
     }
